@@ -44,6 +44,9 @@ The materials in this repository were prepared to support transparent and reprod
 
 The figure can be reproduced by running the R script in RStudio with the accompanying source files provided in this repository. The included session information file documents the computational environment used when preparing the figure.
 
+## Figure Preview
+
+![JBI Risk-of-Bias Traffic Light Plot](jbi-risk-of-bias-traffic-light-plot.png)
 ## Purpose
 
 This repository is intended as a supplementary reproducibility resource for methodological transparency and visual reporting of risk-of-bias assessment results.
