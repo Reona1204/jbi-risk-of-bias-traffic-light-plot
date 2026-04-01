@@ -1,0 +1,7 @@
+"x","y","label","face"
+-0.95,0.1,"Domains:","bold"
+-0.95,-0.22,"D1: Selection bias","plain"
+-0.95,-0.54,"D2: Measurement bias","plain"
+-0.95,-0.86,"D3: Confounding and temporality","plain"
+-0.95,-1.18,"D4: Missing data","plain"
+-0.95,-1.5,"D5: Reporting bias","plain"

@@ -1,0 +1,67 @@
+"Study","Domain","Risk","Symbol","x","y","x_plot"
+"Bakker et al. (2016)","Selection bias","Moderate","–",1,11,1.8
+"Bakker et al. (2016)","Measurement bias","Low","+",2,11,2.8
+"Bakker et al. (2016)","Confounding and temporality","High","×",3,11,3.8
+"Bakker et al. (2016)","Missing data","Moderate","–",4,11,4.8
+"Bakker et al. (2016)","Reporting bias","Low","+",5,11,5.8
+"Bakker et al. (2016)","Overall risk","High","×",6,11,6.8
+"Tims et al. (2015)","Selection bias","Moderate","–",1,10,1.8
+"Tims et al. (2015)","Measurement bias","Low","+",2,10,2.8
+"Tims et al. (2015)","Confounding and temporality","Moderate","–",3,10,3.8
+"Tims et al. (2015)","Missing data","Moderate","–",4,10,4.8
+"Tims et al. (2015)","Reporting bias","Low","+",5,10,5.8
+"Tims et al. (2015)","Overall risk","Moderate","–",6,10,6.8
+"Petrou et al. (2012)","Selection bias","Moderate","–",1,9,1.8
+"Petrou et al. (2012)","Measurement bias","Low","+",2,9,2.8
+"Petrou et al. (2012)","Confounding and temporality","Moderate","–",3,9,3.8
+"Petrou et al. (2012)","Missing data","Moderate","–",4,9,4.8
+"Petrou et al. (2012)","Reporting bias","Low","+",5,9,5.8
+"Petrou et al. (2012)","Overall risk","Moderate","–",6,9,6.8
+"Dubbelt et al. (2019)","Selection bias","High","×",1,8,1.8
+"Dubbelt et al. (2019)","Measurement bias","Moderate","–",2,8,2.8
+"Dubbelt et al. (2019)","Confounding and temporality","High","×",3,8,3.8
+"Dubbelt et al. (2019)","Missing data","Moderate","–",4,8,4.8
+"Dubbelt et al. (2019)","Reporting bias","Low","+",5,8,5.8
+"Dubbelt et al. (2019)","Overall risk","High","×",6,8,6.8
+"Tims et al. (2013)","Selection bias","Moderate","–",1,7,1.8
+"Tims et al. (2013)","Measurement bias","Moderate","–",2,7,2.8
+"Tims et al. (2013)","Confounding and temporality","Moderate","–",3,7,3.8
+"Tims et al. (2013)","Missing data","Moderate","–",4,7,4.8
+"Tims et al. (2013)","Reporting bias","Low","+",5,7,5.8
+"Tims et al. (2013)","Overall risk","Moderate","–",6,7,6.8
+"Bakker et al. (2012)","Selection bias","Moderate","–",1,6,1.8
+"Bakker et al. (2012)","Measurement bias","Low","+",2,6,2.8
+"Bakker et al. (2012)","Confounding and temporality","High","×",3,6,3.8
+"Bakker et al. (2012)","Missing data","Moderate","–",4,6,4.8
+"Bakker et al. (2012)","Reporting bias","Low","+",5,6,5.8
+"Bakker et al. (2012)","Overall risk","High","×",6,6,6.8
+"Moreira et al. (2022)","Selection bias","Moderate","–",1,5,1.8
+"Moreira et al. (2022)","Measurement bias","Low","+",2,5,2.8
+"Moreira et al. (2022)","Confounding and temporality","High","×",3,5,3.8
+"Moreira et al. (2022)","Missing data","Moderate","–",4,5,4.8
+"Moreira et al. (2022)","Reporting bias","Low","+",5,5,5.8
+"Moreira et al. (2022)","Overall risk","High","×",6,5,6.8
+"De Beer et al. (2016)","Selection bias","Moderate","–",1,4,1.8
+"De Beer et al. (2016)","Measurement bias","Moderate","–",2,4,2.8
+"De Beer et al. (2016)","Confounding and temporality","High","×",3,4,3.8
+"De Beer et al. (2016)","Missing data","Moderate","–",4,4,4.8
+"De Beer et al. (2016)","Reporting bias","Low","+",5,4,5.8
+"De Beer et al. (2016)","Overall risk","High","×",6,4,6.8
+"Petrou et al. (2018)","Selection bias","Moderate","–",1,3,1.8
+"Petrou et al. (2018)","Measurement bias","Low","+",2,3,2.8
+"Petrou et al. (2018)","Confounding and temporality","Moderate","–",3,3,3.8
+"Petrou et al. (2018)","Missing data","Moderate","–",4,3,4.8
+"Petrou et al. (2018)","Reporting bias","Low","+",5,3,5.8
+"Petrou et al. (2018)","Overall risk","Moderate","–",6,3,6.8
+"Muttar et al. (2024)","Selection bias","Moderate","–",1,2,1.8
+"Muttar et al. (2024)","Measurement bias","Moderate","–",2,2,2.8
+"Muttar et al. (2024)","Confounding and temporality","High","×",3,2,3.8
+"Muttar et al. (2024)","Missing data","Low","+",4,2,4.8
+"Muttar et al. (2024)","Reporting bias","Low","+",5,2,5.8
+"Muttar et al. (2024)","Overall risk","High","×",6,2,6.8
+"Sakuraya et al. (2017)","Selection bias","Moderate","–",1,1,1.8
+"Sakuraya et al. (2017)","Measurement bias","Low","+",2,1,2.8
+"Sakuraya et al. (2017)","Confounding and temporality","High","×",3,1,3.8
+"Sakuraya et al. (2017)","Missing data","Low","+",4,1,4.8
+"Sakuraya et al. (2017)","Reporting bias","Low","+",5,1,5.8
+"Sakuraya et al. (2017)","Overall risk","Moderate","–",6,1,6.8
